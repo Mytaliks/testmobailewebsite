@@ -8,7 +8,7 @@
 ## Установка
 
   Клонируйте репозиторий:
-  git clone https://github.com/Telipenko/effective-mobile
+  git clone https://github.com/Mytaliks/testmobailewebsite
 
 Установите зависимости:
 pip install -r requirements.txt
